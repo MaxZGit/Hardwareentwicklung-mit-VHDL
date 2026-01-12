@@ -1,0 +1,371 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/maxza/Documents/Workspaces/VHDLWorkspace/Ampelschaltung
+Eclock
+Z1 w1758753347
+Z2 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+Z3 DPx4 work 15 std_definitions 0 22 k2nVN[O]d:nTQ3>4J7Kib3
+Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 495
+Z7 d/mnt/shared/Studium/Semester 2/Hardwareentwurf mit VHDL/Ampelschaltung
+Z8 8clock.vhd
+Z9 Fclock.vhd
+l0
+L6 1
+VYJ<J2CVbYJ@^V8zBmfIAO3
+!s100 O5nod?i?YD:CX_24MFgK52
+Z10 OV;C;2020.1;71
+32
+Z11 !s110 1768245407
+!i10b 1
+Z12 !s108 1768245407.000000
+Z13 !s90 -reportprogress|300|-work|work|clock.vhd|
+Z14 !s107 clock.vhd|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+R5
+R6
+Z17 DEx4 work 5 clock 0 22 YJ<J2CVbYJ@^V8zBmfIAO3
+!i122 495
+l31
+L22 73
+V48_>Bool9cPoD1QFl53E=2
+!s100 nYn5A6Pe5oOHgeI[`0SWl2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Eclock_tb
+Z18 w1768169330
+R2
+R3
+R4
+R5
+R6
+!i122 488
+R7
+Z19 8clock_tb.vhd
+Z20 Fclock_tb.vhd
+l0
+L7 1
+VB;PWG_b4@TbJ@5DIFhWKX3
+!s100 TjNXf@D=zJd3eXz59WJ3E1
+R10
+32
+Z21 !s110 1768169335
+!i10b 1
+Z22 !s108 1768169335.000000
+Z23 !s90 -reportprogress|300|-work|work|clock_tb.vhd|
+Z24 !s107 clock_tb.vhd|
+!i113 1
+R15
+R16
+Artl
+R17
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 clock_tb 0 22 B;PWG_b4@TbJ@5DIFhWKX3
+!i122 488
+l19
+L10 35
+VPOYgML4:I`QAfD=O8BKzo2
+!s100 EHn@@d29^0JRIced]CJee3
+R10
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R15
+R16
+Ecrossing
+Z25 w1761126599
+R2
+R3
+R4
+R5
+R6
+!i122 497
+R7
+Z26 8crossing.vhd
+Z27 Fcrossing.vhd
+l0
+L6 1
+VzZBc;XRg=PMI1A]ONcDV>1
+!s100 aV4Z7hT@i_M4UHio=L9lS3
+R10
+32
+Z28 !s110 1768245408
+!i10b 1
+Z29 !s108 1768245408.000000
+Z30 !s90 -reportprogress|300|-work|work|crossing.vhd|
+Z31 !s107 crossing.vhd|
+!i113 1
+R15
+R16
+Artl
+Z32 DEx4 work 13 traffic_light 0 22 9=Om1bQ[3m<gkOg;nV?T<3
+R17
+R2
+R3
+R4
+R5
+R6
+Z33 DEx4 work 8 crossing 0 22 zZBc;XRg=PMI1A]ONcDV>1
+!i122 497
+l47
+L43 102
+V1BPRoZ8dhB@6H<jR1F9@Z1
+!s100 0Y7leH_i4QNC9foiJg7g00
+R10
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R15
+R16
+Ecrossing_tb
+Z34 w1758753903
+R2
+R3
+R4
+R5
+R6
+!i122 498
+R7
+Z35 8crossing_tb.vhd
+Z36 Fcrossing_tb.vhd
+l0
+L7 1
+VBQ3>3[AXD>=2DCYI8Ik3e2
+!s100 SWR_MKhQ5PQ1518NM;ThD0
+R10
+32
+R28
+!i10b 1
+R29
+Z37 !s90 -reportprogress|300|-work|work|crossing_tb.vhd|
+Z38 !s107 crossing_tb.vhd|
+!i113 1
+R15
+R16
+Artl
+R33
+R2
+R3
+R4
+R5
+R6
+Z39 DEx4 work 11 crossing_tb 0 22 BQ3>3[AXD>=2DCYI8Ik3e2
+!i122 498
+l18
+Z40 L10 50
+Z41 VjT]eV@gS46Y=2coZ]VhfG3
+Z42 !s100 9P1lHz8SG6[jleYYgh>=l2
+R10
+32
+R28
+!i10b 1
+R29
+R37
+R38
+!i113 1
+R15
+R16
+Pstd_definitions
+R2
+R4
+R5
+R6
+!i122 494
+w1768168473
+R7
+8std_package.vhd
+Fstd_package.vhd
+l0
+L6 1
+Vk2nVN[O]d:nTQ3>4J7Kib3
+!s100 c^=iYJ>4m^ff:@S7LTk^n0
+R10
+32
+R11
+!i10b 1
+R12
+!s90 -reportprogress|300|-work|work|std_package.vhd|
+!s107 std_package.vhd|
+!i113 1
+R15
+R16
+Etop_level
+Z43 w1754643849
+R2
+Z44 DPx4 work 15 std_definitions 0 22 PCDmTohnJ7CFAg`To_AmW3
+R4
+R5
+R6
+!i122 279
+R0
+Z45 8top_level.vhd
+Z46 Ftop_level.vhd
+l0
+L6 1
+VPz7a>6B7B?HIF3H0O[67W3
+!s100 =YJjV[G>z;n8<74mKNa6D0
+R10
+32
+Z47 !s110 1758737686
+!i10b 1
+Z48 !s108 1758737686.000000
+Z49 !s90 -reportprogress|300|-work|work|top_level.vhd|
+Z50 !s107 top_level.vhd|
+!i113 1
+R15
+R16
+Artl
+DEx4 work 8 crossing 0 22 lgn_llWkJb3VT4i[MX]bJ3
+DEx4 work 5 clock 0 22 `fSY2zWFcbRO9liJ21fFD0
+R2
+R44
+R4
+R5
+R6
+Z51 DEx4 work 9 top_level 0 22 Pz7a>6B7B?HIF3H0O[67W3
+!i122 279
+l38
+L36 38
+VBKj1z]d4Mh3lD6JI;doDe3
+!s100 GAAB:4c52;1^``cm@3X@I0
+R10
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R15
+R16
+Etop_level_tb
+Z52 w1754647924
+R2
+R44
+R4
+R5
+R6
+!i122 280
+R0
+Z53 8top_level_tb.vhd
+Z54 Ftop_level_tb.vhd
+l0
+L7 1
+VPIRcNc^I1@P]ERKhbZ7E[3
+!s100 Q_VDT]UEYE>:M?77Vea>^1
+R10
+32
+R47
+!i10b 1
+R48
+Z55 !s90 -reportprogress|300|-work|work|top_level_tb.vhd|
+Z56 !s107 top_level_tb.vhd|
+!i113 1
+R15
+R16
+Artl
+R51
+R2
+R44
+R4
+R5
+R6
+DEx4 work 12 top_level_tb 0 22 PIRcNc^I1@P]ERKhbZ7E[3
+!i122 280
+l18
+L10 43
+V354ITiR[Yl_QbKV]6=:ji2
+!s100 UDM@[nihU4^0izcTM5J>N3
+R10
+32
+R47
+!i10b 1
+R48
+R55
+R56
+!i113 1
+R15
+R16
+Etraffic_light
+Z57 w1768245402
+R2
+R3
+R4
+R5
+R6
+!i122 496
+R7
+Z58 8traffic_light.vhd
+Z59 Ftraffic_light.vhd
+l0
+L6 1
+V9=Om1bQ[3m<gkOg;nV?T<3
+!s100 IAdVY]_Z1cQjGLLlfM=<z1
+R10
+32
+R28
+!i10b 1
+R12
+Z60 !s90 -reportprogress|300|-work|work|traffic_light.vhd|
+Z61 !s107 traffic_light.vhd|
+!i113 1
+R15
+R16
+Artl
+R2
+R3
+R4
+R5
+R6
+R32
+!i122 496
+l53
+L36 184
+V<?P]n6dJJLdTDciUHPlX<3
+!s100 JM8;@0a52:^mB1GKhWVZ10
+R10
+32
+R28
+!i10b 1
+R12
+R60
+R61
+!i113 1
+R15
+R16

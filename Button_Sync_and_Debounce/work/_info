@@ -1,0 +1,226 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/maxza/Documents/JKU-ISP/Workspaces/VHDL-Workspace/Reuseable Blocks/Button_Sync_and_Debounce
+Einput_debounce
+Z1 w1758882821
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 39
+R0
+Z5 8input_debounce.vhd
+Z6 Finput_debounce.vhd
+l0
+L5 1
+V0[>ihn5ozbEDGjOB3jR1H3
+!s100 ja?G>baeD^@0DKQ;Bg0;Q1
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1758884828
+!i10b 1
+Z9 !s108 1758884828.000000
+Z10 !s90 -reportprogress|300|-work|work|input_debounce.vhd|
+Z11 !s107 input_debounce.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+Z14 DEx4 work 14 input_debounce 0 22 0[>ihn5ozbEDGjOB3jR1H3
+!i122 39
+l30
+L18 72
+V]O?gGJWWPaAAcPlF9;OGU0
+!s100 ^>fEXNeHzi;H:4D^4U<J61
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Einput_debounce_tb
+Z15 w1753453694
+R3
+R4
+!i122 22
+R0
+Z16 8input_debounce_tb.vhd
+Z17 Finput_debounce_tb.vhd
+l0
+L4 1
+VDPLYAME;VoEaahg<3DH1A1
+!s100 E9dRjS^ZHTmX<T1Pf3<_X3
+R7
+32
+Z18 !s110 1758883941
+!i10b 1
+Z19 !s108 1758883941.000000
+Z20 !s90 -reportprogress|300|-work|work|input_debounce_tb.vhd|
+Z21 !s107 input_debounce_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R14
+R3
+R4
+DEx4 work 17 input_debounce_tb 0 22 DPLYAME;VoEaahg<3DH1A1
+!i122 22
+l16
+L7 71
+VJ47Ld^0KI^zedmg5gOOf]1
+!s100 7K^K4ef<@32Ia?1hRFhi@2
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Esync_debounce
+Z22 w1758883687
+R3
+R4
+!i122 41
+R0
+Z23 8sync_debounce.vhd
+Z24 Fsync_debounce.vhd
+l0
+L4 1
+VE@z[1l^UMmZD?lO;>6z<43
+!s100 Zl04Pnb@dk>lA;R`zjN5A3
+R7
+32
+Z25 !s110 1758884829
+!i10b 1
+R9
+Z26 !s90 -reportprogress|300|-work|work|sync_debounce.vhd|
+Z27 !s107 sync_debounce.vhd|
+!i113 1
+R12
+R13
+Artl
+R14
+R2
+Z28 DEx4 work 12 synchronizer 0 22 lA7XRLc6IdJO;4`PM_dG61
+R3
+R4
+Z29 DEx4 work 13 sync_debounce 0 22 E@z[1l^UMmZD?lO;>6z<43
+!i122 41
+l23
+L21 33
+V=FG=J4hA?aCN<iMUFmHhn2
+!s100 GTNFnbcJ:Db>HeY@PmaCl1
+R7
+32
+R25
+!i10b 1
+R9
+R26
+R27
+!i113 1
+R12
+R13
+Esync_debounce_tb
+Z30 w1758884559
+R3
+R4
+!i122 42
+R0
+Z31 8sync_debounce_tb.vhd
+Z32 Fsync_debounce_tb.vhd
+l0
+L4 1
+V1Fj:G:g@Pe^]@84K^1ahd0
+!s100 dQ5=kO1gXTgRnfM?aB?5J1
+R7
+32
+R25
+!i10b 1
+Z33 !s108 1758884829.000000
+Z34 !s90 -reportprogress|300|-work|work|sync_debounce_tb.vhd|
+Z35 !s107 sync_debounce_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R29
+R3
+R4
+Z36 DEx4 work 16 sync_debounce_tb 0 22 1Fj:G:g@Pe^]@84K^1ahd0
+!i122 42
+l16
+Z37 L7 72
+Z38 V9n533[COXWcJ4hAg>ONCg0
+Z39 !s100 mGHkzV7;k<zR>oAJ6EVn;0
+R7
+32
+R25
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R12
+R13
+Esynchronizer
+Z40 w1758844073
+R2
+R3
+R4
+!i122 40
+R0
+Z41 8input_synchronizer.vhd
+Z42 Finput_synchronizer.vhd
+l0
+L6 1
+VlA7XRLc6IdJO;4`PM_dG61
+!s100 lX_hlTN2m`2g>=Un=cK:Y3
+R7
+32
+R8
+!i10b 1
+R9
+Z43 !s90 -reportprogress|300|-work|work|input_synchronizer.vhd|
+Z44 !s107 input_synchronizer.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+R28
+!i122 40
+l21
+L18 25
+V2HTF?G^i:P<4TFU@RVhG51
+!s100 C7W0Y54nalhL0lb^lIGWM0
+R7
+32
+R8
+!i10b 1
+R9
+R43
+R44
+!i113 1
+R12
+R13
